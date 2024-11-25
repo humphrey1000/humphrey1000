@@ -21,18 +21,18 @@ I am a [IT SPECIALIST] with a love for CODING. I thrive on creating impactful pr
 
 ## 💼 Professional Experience
 
-### [IT SUPPORT] at [PALBINA TRAVEL]
-**Duration**: [1/2/2024] - [Present]
+### IT SUPPORT at PALBINA TRAVEL
+**Duration**: 1/2/2024 - Present
 
-- 📌 [SYSTEMS ADMINISTRATION]
-- 📌 [DATA ANALYTICS]
-- 📌 [TECHNICAL SUPPORT]
+- 📌 SYSTEMS ADMINISTRATION
+- 📌 DATA ANALYTICS
+- 📌 TECHNICAL SUPPORT
 
-### [DATA CLERK] at [IMARISHA MAISHA]
-**Duration**: [1/1/2020] - [1/2/2024]
+### DATA CLERK at IMARISHA MAISHA
+**Duration**: 1/1/2020 - 1/2/2024
 
-- 📌 [DATA ENTRY]
-- 📌 [TECHNICAL SUPPORT]
+- 📌 DATA ENTRY
+- 📌 TECHNICAL SUPPORT
 
 ---
 
@@ -40,10 +40,10 @@ I am a [IT SPECIALIST] with a love for CODING. I thrive on creating impactful pr
 
 ![Skills]([https://link-to-your-skills-image.com/skills.png](https://unsplash.com/photos/macbook-pro-on-black-wooden-table-PNbDkQ2DDgM))
 
-- **Languages**: [JAVA, JAVASCRIPT, PYTHON, C/C++, SQL]
-- **Frameworks**: [REACT]
-- **Tools**: [INTELLI-J IDEA]
-- **Databases**: [ACCESS]
+- **Languages**: JAVA, JAVASCRIPT, PYTHON, C/C++, SQL
+- **Frameworks**: REACT
+- **Tools**: INTELLI-J IDEA
+- **Databases**: ACCESS
 
 ---
 
