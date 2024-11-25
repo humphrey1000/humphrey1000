@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm [HUMPHREY]
+# 👋 Hello, World! I'm HUMPHREY
 
 ![Profile Banner]([https://link-to-your-banner.com/banner.png](https://unsplash.com/photos/person-holding-clear-glass-glass-xU5Mqq0Chck))
 
@@ -49,7 +49,7 @@ I am a [IT SPECIALIST] with a love for [CODING]. I thrive on creating impactful 
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/humphrey-ngugi-132a601b9/))
+- [LinkedIn](https://www.linkedin.com/in/humphrey-ngugi-132a601b9/)
 - [Twitter](https://twitter.com/yourusername)
 - [Personal Website](https://yourwebsite.com)
 
