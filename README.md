@@ -38,7 +38,7 @@ I am a IT SPECIALIST with a love for CODING. I thrive on creating impactful proj
 
 ## 🛠️ Skills
 
-![Skills]([https://link-to-your-skills-image.com/skills.png](https://unsplash.com/photos/macbook-pro-on-black-wooden-table-PNbDkQ2DDgM))
+![Skills](https://unsplash.com/photos/macbook-pro-on-black-wooden-table-PNbDkQ2DDgM))
 
 - **Languages**: JAVA, JAVASCRIPT, PYTHON, C/C++, SQL
 - **Frameworks**: REACT
