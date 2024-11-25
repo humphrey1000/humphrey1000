@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm HUMPHREY
 
-![Profile Banner](https://unsplash.com/photos/person-holding-clear-glass-glass-xU5Mqq0Chck)
+![Profile Banner](https://sl.bing.net/i2kRS4mByQm)
 
 Welcome to my digital space! I am passionate about technology, coding, and making the world a better place through innovation.
 
