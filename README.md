@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm HUMPHREY
 
-![Profile Banner]([https://sl.bing.net/i2kRS4mByQm](https://www.thoughtco.com/thmb/TeXSv3it-yN-1aNMb5ie03GvBYc=/4992x3328/filters:fill(auto,1)/sequences-of-digits-172172089-59e629f9c41244001148b4a2.jpg))
+![Profile Banner]()
 
 Welcome to my digital space! I am passionate about technology, coding, and making the world a better place through innovation.
 
@@ -38,7 +38,7 @@ I am a IT SPECIALIST with a love for CODING. I thrive on creating impactful proj
 
 ## 🛠️ Skills
 
-![Skills](https://unsplash.com/photos/macbook-pro-on-black-wooden-table-PNbDkQ2DDgM))
+![Skills]()
 
 - **Languages**: JAVA, JAVASCRIPT, PYTHON, C/C++, SQL
 - **Frameworks**: REACT
