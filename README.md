@@ -83,7 +83,7 @@ I am a [IT SPECIALIST] with a love for CODING. I thrive on creating impactful pr
 
 ---
 
-*Made with ❤️ by [Your Name](https://github.com/yourusername)*
+*Made with ❤️ by [Your Name](https://github.com/humphrey1000)*
 
 
 
