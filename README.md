@@ -8,7 +8,7 @@ Welcome to my digital space! I am passionate about technology, coding, and makin
 
 ## 🌟 About Me
 
-I am a [IT SPECIALIST] with a love for CODING. I thrive on creating impactful projects and continuously learning new skills. 
+I am a IT SPECIALIST with a love for CODING. I thrive on creating impactful projects and continuously learning new skills. 
 
 - 🔭 Currently working on: NOTHING
 - 🌱 Learning: FLUTTER
