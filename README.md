@@ -41,8 +41,8 @@ I am a IT SPECIALIST with a love for CODING. I thrive on creating impactful proj
 ![Skills]()
 
 - **Languages**: JAVA, JAVASCRIPT, PYTHON, C/C++, SQL
-- **Frameworks**: REACT
-- **Tools**: INTELLI-J IDEA
+- **Frameworks**: React, Flutter, Django
+- **Tools**: Intelli-j, Pycharm, Powershell
 - **Databases**: ACCESS
 
 ---
