@@ -10,10 +10,10 @@ Welcome to my digital space! I am passionate about technology, coding, and makin
 
 I am a IT SPECIALIST with a love for CODING. I thrive on creating impactful projects and continuously learning new skills. 
 
-- 🔭 Currently working on: NOTHING
-- 🌱 Learning: FLUTTER
-- 👯 Looking to collaborate on: FLUTTER PROJECTS
-- 💬 Ask me about: JAVA, JAVASCRIPT
+- 🔭 Currently working on: Open source Python
+- 🌱 Learning: Python
+- 👯 Looking to collaborate on: Python Projects
+- 💬 Ask me about: Java, Javascript, React, Python, 
 - 📫 How to reach me: [HERE](mailto:humblesys09@gmail.com)
 - ⚡ Fun fact: HUMBLE
 
